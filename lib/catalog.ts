@@ -1,5 +1,5 @@
 import type {PlaybackSource} from "./playback";
-export type MediaItem = { id:string; title:string; originalTitle:string; type:'movie'|'anime'; year:number; rating:number|null; genres:string[]; overview:string; poster:string; backdrop?:string; source:string; sourceUrl:string; trailer?:string; watchUrl?:string; watchLabel?:string; duration?:string; status?:string; fullVideo?:string; playback?:PlaybackSource[]; };
+export type MediaItem = { id:string; title:string; originalTitle:string; type:'movie'|'anime'|'series'; year:number; rating:number|null; genres:string[]; overview:string; poster:string; backdrop?:string; source:string; sourceUrl:string; trailer?:string; watchUrl?:string; watchLabel?:string; duration?:string; status?:string; fullVideo?:string; playback?:PlaybackSource[]; };
 
 export const seedCatalog:MediaItem[] = [
   {

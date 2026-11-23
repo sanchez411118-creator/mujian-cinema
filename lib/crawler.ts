@@ -1,9 +1,13 @@
 import {env} from 'cloudflare:workers';
 import catalog from './feed-snapshot.json';
-import {parseWork,readFeed,sections,summary, type FeedItem, type FeedRow} from './movie-websites';
-const initial=catalog.items as FeedItem[];
+import breakingBad from './breaking-bad.json';
+import {breakingBadSeasons,parseSeries,seriesFeedUrl,parseWork,readFeed,sections,summary, type FeedItem, type FeedRow} from './movie-websites';
+const initial=[...catalog.items,...breakingBad] as FeedItem[];
 const initialById=new Map(initial.map(work=>[work.id,work]));
 const refreshMs=30*60*1000;
+// Keep requested series in every refresh even before the rolling category
+// backfill reaches their older source pages.
+const featuredSeriesIds=['120468','114818','120034','112408','165238'];
 type State={checked:number;cursors:string;lease:number};
 type Stored={id:string;summary:string | null};
 function database() { if(!env.DB)throw new Error('片库数据库未连接');return env.DB; }
@@ -29,9 +33,11 @@ export async function readIndex() {
 export async function loadWork(id:string, renew:boolean) {
   if(!/^bf-\d{1,9}$/.test(id))return null;
   if(renew)try {
-    const {list}=await readFeed({ids:id.slice(3)});
-    const row=list.find(row=>String(row.vod_id)===id.slice(3));
-    return row?parseWork(row):null;
+    const season=breakingBadSeasons.find(s=>'bf-'+s.id===id);
+    const sourceId=season?String(season.sourceId):id.slice(3);
+    const {list}=await readFeed({ids:sourceId},season?seriesFeedUrl:undefined);
+    const row=list.find(row=>String(row.vod_id)===sourceId);
+    return row?(season?parseSeries(row):parseWork(row)):null;
   } catch { /* Continue with the last complete record if the source is offline. */ }
   try {
     const row=await database().prepare('SELECT payload FROM film_works WHERE id=?').bind(id).first<{payload:string|null}>();
@@ -62,6 +68,11 @@ export async function refreshIndex() {
   let pages=0,failures=0;
   const records=new Map<string,FeedRow>();
   try {
+    try {
+      const featured=await readFeed({ids:featuredSeriesIds.join(',')});
+      pages++;
+      for(const row of featured.list)records.set(String(row.vod_id),row);
+    } catch { failures++; }
     // Scan the head of every category for changes and advance a durable backfill cursor.
     for(let offset=0;offset<sections.length;offset+=3) {
       await Promise.all(sections.slice(offset,offset+3).map(async section=>{
@@ -82,6 +93,15 @@ export async function refreshIndex() {
     const sql=db.prepare('INSERT INTO film_works(id,payload,summary,source_time) VALUES(?,?,?,?) ON CONFLICT(id) DO UPDATE SET payload=excluded.payload,summary=excluded.summary,source_time=excluded.source_time WHERE excluded.source_time>=film_works.source_time');
     const writes=[];
     let accepted=0;
+    try {
+      const {list}=await readFeed({ids:breakingBadSeasons.map(s=>s.sourceId).join(',')},seriesFeedUrl);
+      const seasons=list.map(parseSeries).filter((item):item is FeedItem=>!!item);
+      if(seasons.length!==breakingBadSeasons.length)failures++;
+      for(const item of seasons){
+        writes.push(sql.bind(item.id,JSON.stringify(item),JSON.stringify(summary(item)),item.sourceTime));
+      }
+      pages++;accepted+=seasons.length;
+    } catch { failures++; }
     for(const row of records.values()) {
       if(!/^\d+$/.test(String(row.vod_id)))continue;
       const item=parseWork(row);
