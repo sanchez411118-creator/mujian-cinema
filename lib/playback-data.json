@@ -1,0 +1,3474 @@
+{
+  "movies": [
+    {
+      "id": "world-prospect",
+      "title": "致命勘探",
+      "originalTitle": "Prospect",
+      "type": "movie",
+      "year": 2018,
+      "country": "美国",
+      "rating": null,
+      "genres": [
+        "科幻",
+        "冒险"
+      ],
+      "overview": "少女与父亲前往外星森林采矿，一次意外迫使她与陌生人合作求生。佩德罗·帕斯卡主演。",
+      "poster": "/images/world-prospect.jpg",
+      "backdrop": "/images/world-prospect.jpg",
+      "source": "Shout! Studios",
+      "sourceUrl": "https://www.youtube.com/watch?v=UsrbNtUgEaY",
+      "duration": "100 分钟",
+      "status": "美国 · 完整版"
+    },
+    {
+      "id": "world-halo",
+      "title": "光环4：航向黎明号",
+      "originalTitle": "Halo 4: Forward Unto Dawn",
+      "type": "movie",
+      "year": 2012,
+      "country": "美国",
+      "rating": null,
+      "genres": [
+        "科幻",
+        "动作"
+      ],
+      "overview": "军校学员遭遇星盟突袭，与士官长一起经历改变命运的战斗。游戏《光环》改编。",
+      "poster": "/images/world-halo.jpg",
+      "backdrop": "/images/world-halo.jpg",
+      "source": "Shout! Studios",
+      "sourceUrl": "https://www.youtube.com/watch?v=AZj3Is6Upng",
+      "duration": "91 分钟",
+      "status": "美国 · 完整版"
+    },
+    {
+      "id": "world-illusionist",
+      "title": "魔术师",
+      "originalTitle": "The Illusionist",
+      "type": "movie",
+      "year": 2006,
+      "country": "美国 / 捷克",
+      "rating": null,
+      "genres": [
+        "悬疑",
+        "爱情"
+      ],
+      "overview": "维也纳魔术师的舞台幻象，卷入一场关于爱情、权力与真相的谜局。爱德华·诺顿主演。",
+      "poster": "/images/world-illusionist.jpg",
+      "backdrop": "/images/world-illusionist.jpg",
+      "source": "Cinéma Cinémas",
+      "sourceUrl": "https://www.youtube.com/watch?v=eWflUY3pNXo",
+      "duration": "106 分钟",
+      "status": "美国 / 捷克 · 完整版"
+    },
+    {
+      "id": "world-marvelous",
+      "title": "奇迹与黑洞",
+      "originalTitle": "Marvelous and the Black Hole",
+      "type": "movie",
+      "year": 2021,
+      "country": "美国",
+      "rating": null,
+      "genres": [
+        "喜剧",
+        "剧情"
+      ],
+      "overview": "叛逆少女遇到一位脾气古怪的魔术师，在奇妙的友谊中学着面对失去与成长。",
+      "poster": "/images/world-marvelous.jpg",
+      "backdrop": "/images/world-marvelous.jpg",
+      "source": "FilmRise Movies",
+      "sourceUrl": "https://www.youtube.com/watch?v=3Eh7dVNKWNU",
+      "duration": "82 分钟",
+      "status": "美国 · 完整版"
+    },
+    {
+      "id": "world-dead-girl",
+      "title": "死去的女孩",
+      "originalTitle": "The Dead Girl",
+      "type": "movie",
+      "year": 2006,
+      "country": "美国",
+      "rating": null,
+      "genres": [
+        "悬疑",
+        "剧情"
+      ],
+      "overview": "一名年轻女子的死亡，把几位陌生人的人生连在一起。托妮·科莱特、布莱特妮·墨菲主演。",
+      "poster": "/images/world-dead-girl.jpg",
+      "backdrop": "/images/world-dead-girl.jpg",
+      "source": "Shout! Studios",
+      "sourceUrl": "https://www.youtube.com/watch?v=WiZMDIiAcYg",
+      "duration": "94 分钟",
+      "status": "美国 · 完整版"
+    },
+    {
+      "id": "world-morvern",
+      "title": "莫文·卡拉",
+      "originalTitle": "Morvern Callar",
+      "type": "movie",
+      "year": 2002,
+      "country": "英国",
+      "rating": null,
+      "genres": [
+        "剧情"
+      ],
+      "overview": "男友突然离世后，一位苏格兰女孩带着未发表的小说与秘密，踏上一段陌生旅途。",
+      "poster": "/images/world-morvern.jpg",
+      "backdrop": "/images/world-morvern.jpg",
+      "source": "FilmRise Movies",
+      "sourceUrl": "https://www.youtube.com/watch?v=fSWQRS3nty4",
+      "duration": "98 分钟",
+      "status": "英国 · 完整版"
+    },
+    {
+      "id": "world-rendel",
+      "title": "伦德尔",
+      "originalTitle": "Rendel: Dark Vengeance",
+      "type": "movie",
+      "year": 2017,
+      "country": "芬兰",
+      "rating": null,
+      "genres": [
+        "动作",
+        "犯罪"
+      ],
+      "overview": "一个失去家人的男人戴上面具，向控制城市的犯罪组织发起复仇。芬兰超级英雄电影。",
+      "poster": "/images/world-rendel.jpg",
+      "backdrop": "/images/world-rendel.jpg",
+      "source": "Popcornflix",
+      "sourceUrl": "https://www.youtube.com/watch?v=ra0vF8YSvps",
+      "duration": "105 分钟",
+      "status": "芬兰 · 完整版"
+    },
+    {
+      "id": "world-cas-dylan",
+      "title": "卡斯与迪伦",
+      "originalTitle": "Cas & Dylan",
+      "type": "movie",
+      "year": 2013,
+      "country": "加拿大",
+      "rating": null,
+      "genres": [
+        "喜剧",
+        "剧情"
+      ],
+      "overview": "一位年长医生与年轻作家意外结伴，在横跨加拿大的旅途中重新看待人生。",
+      "poster": "/images/world-cas-dylan.jpg",
+      "backdrop": "/images/world-cas-dylan.jpg",
+      "source": "Boxoffice",
+      "sourceUrl": "https://www.youtube.com/watch?v=amU-OR2ueko",
+      "duration": "90 分钟",
+      "status": "加拿大 · 完整版"
+    },
+    {
+      "id": "world-birders",
+      "title": "观鸟者指南",
+      "originalTitle": "A Birder’s Guide to Everything",
+      "type": "movie",
+      "year": 2013,
+      "country": "美国",
+      "rating": null,
+      "genres": [
+        "喜剧",
+        "冒险"
+      ],
+      "overview": "一群热爱观鸟的少年，踏上寻找稀有鸭类的公路旅程。",
+      "poster": "/images/world-birders.jpg",
+      "backdrop": "/images/world-birders.jpg",
+      "source": "Popcornflix",
+      "sourceUrl": "https://www.youtube.com/watch?v=bopJV_Xk_Ls",
+      "duration": "86 分钟",
+      "status": "美国 · 完整版"
+    },
+    {
+      "id": "world-meet-patels",
+      "title": "认识帕特尔一家",
+      "originalTitle": "Meet the Patels",
+      "type": "movie",
+      "year": 2014,
+      "country": "美国",
+      "rating": null,
+      "genres": [
+        "喜剧",
+        "纪录片"
+      ],
+      "overview": "一名印度裔美国演员，在家人与传统的期待中寻找爱情。",
+      "poster": "/images/world-meet-patels.jpg",
+      "backdrop": "/images/world-meet-patels.jpg",
+      "source": "FilmRise Movies",
+      "sourceUrl": "https://www.youtube.com/watch?v=QofdbUNmczo",
+      "duration": "88 分钟",
+      "status": "美国 · 完整版"
+    },
+    {
+      "id": "world-emu-war",
+      "title": "鸸鹋战争",
+      "originalTitle": "The Emu War",
+      "type": "movie",
+      "year": 2023,
+      "country": "澳大利亚",
+      "rating": null,
+      "genres": [
+        "喜剧",
+        "动作"
+      ],
+      "overview": "以澳大利亚历史上的鸸鹋战争为灵感，一场人与大鸟之间的荒诞较量。",
+      "poster": "/images/world-emu-war.jpg",
+      "backdrop": "/images/world-emu-war.jpg",
+      "source": "Umbrella Entertainment",
+      "sourceUrl": "https://www.youtube.com/watch?v=1KyiTWUS9ts",
+      "duration": "73 分钟",
+      "status": "澳大利亚 · 完整版"
+    },
+    {
+      "id": "world-jurassic-triangle",
+      "title": "侏罗纪三角",
+      "originalTitle": "Jurassic Triangle",
+      "type": "movie",
+      "year": 2024,
+      "country": "英国",
+      "rating": null,
+      "genres": [
+        "科幻",
+        "冒险"
+      ],
+      "overview": "一群同事流落神秘岛屿，在史前生物的包围中寻找逃生之路。",
+      "poster": "/images/world-jurassic-triangle.jpg",
+      "backdrop": "/images/world-jurassic-triangle.jpg",
+      "source": "Movie Central",
+      "sourceUrl": "https://www.youtube.com/watch?v=ozwywy1eeXs",
+      "duration": "83 分钟",
+      "status": "英国 · 完整版"
+    },
+    {
+      "id": "world-most-guys",
+      "title": "大多数男人都是失败者",
+      "originalTitle": "Most Guys Are Losers",
+      "type": "movie",
+      "year": 2020,
+      "country": "美国",
+      "rating": null,
+      "genres": [
+        "爱情",
+        "喜剧"
+      ],
+      "overview": "感恩节的一次家庭拜访，让年轻情侣遇上最严格的恋爱考官。",
+      "poster": "/images/world-most-guys.jpg",
+      "backdrop": "/images/world-most-guys.jpg",
+      "source": "Shout! Studios",
+      "sourceUrl": "https://www.youtube.com/watch?v=TqtDnxV4zeM",
+      "duration": "88 分钟",
+      "status": "美国 · 完整版"
+    },
+    {
+      "id": "anime-1535",
+      "title": "死亡笔记",
+      "originalTitle": "Death Note",
+      "type": "anime",
+      "year": 2006,
+      "rating": 8.4,
+      "genres": [
+        "悬疑",
+        "心理",
+        "奇幻",
+        "Thriller"
+      ],
+      "overview": "死亡笔记的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-1535.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1535.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/1535",
+      "duration": "37 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-21087",
+      "title": "一拳超人",
+      "originalTitle": "One-Punch Man",
+      "type": "anime",
+      "year": 2015,
+      "rating": 8.2,
+      "genres": [
+        "动作",
+        "喜剧",
+        "科幻",
+        "奇幻"
+      ],
+      "overview": "一拳超人的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-21087.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21087-sHb9zUZFsHe1.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/21087",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-20",
+      "title": "火影忍者",
+      "originalTitle": "Naruto",
+      "type": "anime",
+      "year": 2002,
+      "rating": 8.0,
+      "genres": [
+        "动作",
+        "冒险",
+        "喜剧",
+        "剧情",
+        "奇幻"
+      ],
+      "overview": "火影忍者的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-20.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20-HHxhPj5JD13a.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/20",
+      "duration": "220 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-20755",
+      "title": "暗杀教室",
+      "originalTitle": "Assassination Classroom",
+      "type": "anime",
+      "year": 2015,
+      "rating": 7.9,
+      "genres": [
+        "动作",
+        "喜剧",
+        "剧情",
+        "奇幻"
+      ],
+      "overview": "暗杀教室的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-20755.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20755-D4ipww9U8YkC.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/20755",
+      "duration": "22 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-21507",
+      "title": "灵能百分百",
+      "originalTitle": "Mob Psycho 100",
+      "type": "anime",
+      "year": 2016,
+      "rating": 8.4,
+      "genres": [
+        "动作",
+        "喜剧",
+        "剧情",
+        "心理",
+        "日常",
+        "奇幻"
+      ],
+      "overview": "灵能百分百的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-21507.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21507-Qx8bGsLXUgLo.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/21507",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-21355",
+      "title": "Re：从零开始的异世界生活",
+      "originalTitle": "Re:ZERO -Starting Life in Another World-",
+      "type": "anime",
+      "year": 2016,
+      "rating": 8.1,
+      "genres": [
+        "动作",
+        "冒险",
+        "剧情",
+        "奇幻",
+        "心理",
+        "爱情",
+        "Thriller"
+      ],
+      "overview": "Re：从零开始的异世界生活的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-21355.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21355-f9SjOfEJMk5P.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/21355",
+      "duration": "25 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-20464",
+      "title": "排球少年",
+      "originalTitle": "HAIKYU!!",
+      "type": "anime",
+      "year": 2014,
+      "rating": 8.3,
+      "genres": [
+        "喜剧",
+        "剧情",
+        "运动"
+      ],
+      "overview": "排球少年的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-20464.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20464-PpYjO9cPN1gs.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/20464",
+      "duration": "25 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-105333",
+      "title": "石纪元",
+      "originalTitle": "Dr. STONE",
+      "type": "anime",
+      "year": 2019,
+      "rating": 8.1,
+      "genres": [
+        "动作",
+        "冒险",
+        "喜剧",
+        "科幻"
+      ],
+      "overview": "石纪元的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-105333.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/105333-KWKGvBM8Hyga.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/105333",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-20613",
+      "title": "斩！赤红之瞳",
+      "originalTitle": "Akame ga Kill!",
+      "type": "anime",
+      "year": 2014,
+      "rating": 7.3,
+      "genres": [
+        "动作",
+        "冒险",
+        "剧情",
+        "奇幻",
+        "恐怖",
+        "心理",
+        "Thriller"
+      ],
+      "overview": "斩！赤红之瞳的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-20613.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20613-CoEQF4qKiWDX.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/20613",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-19815",
+      "title": "游戏人生",
+      "originalTitle": "No Game, No Life",
+      "type": "anime",
+      "year": 2014,
+      "rating": 7.7,
+      "genres": [
+        "冒险",
+        "喜剧",
+        "奇幻"
+      ],
+      "overview": "游戏人生的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-19815.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19815-BqbuD0wyBS3P.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/19815",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-20789",
+      "title": "七大罪",
+      "originalTitle": "The Seven Deadly Sins",
+      "type": "anime",
+      "year": 2014,
+      "rating": 7.2,
+      "genres": [
+        "动作",
+        "冒险",
+        "喜剧",
+        "奇幻"
+      ],
+      "overview": "七大罪的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-20789.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20789-qwG9GcxIrmVE.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/20789",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-269",
+      "title": "死神 BLEACH",
+      "originalTitle": "Bleach",
+      "type": "anime",
+      "year": 2004,
+      "rating": 7.9,
+      "genres": [
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "overview": "死神 BLEACH的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-269.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/269-08ar2HJOUAuL.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/269",
+      "duration": "366 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-21202",
+      "title": "为美好的世界献上祝福！",
+      "originalTitle": "KONOSUBA -God's blessing on this wonderful world!",
+      "type": "anime",
+      "year": 2016,
+      "rating": 7.9,
+      "genres": [
+        "冒险",
+        "喜剧",
+        "奇幻"
+      ],
+      "overview": "为美好的世界献上祝福！的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-21202.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21202-UWijdV7RMnXo.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/21202",
+      "duration": "10 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-145064",
+      "title": "咒术回战 第二季",
+      "originalTitle": "JUJUTSU KAISEN Season 2",
+      "type": "anime",
+      "year": 2023,
+      "rating": 8.6,
+      "genres": [
+        "动作",
+        "剧情",
+        "奇幻"
+      ],
+      "overview": "咒术回战 第二季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-145064.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-esDtAY2He7sk.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/145064",
+      "duration": "23 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-105310",
+      "title": "炎炎消防队",
+      "originalTitle": "Fire Force",
+      "type": "anime",
+      "year": 2019,
+      "rating": 7.6,
+      "genres": [
+        "动作",
+        "剧情",
+        "科幻",
+        "奇幻"
+      ],
+      "overview": "炎炎消防队的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-105310.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/105310-ygGL9yweZM2Q.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/105310",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-14719",
+      "title": "JOJO的奇妙冒险",
+      "originalTitle": "JoJo's Bizarre Adventure (TV)",
+      "type": "anime",
+      "year": 2012,
+      "rating": 7.7,
+      "genres": [
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "overview": "JOJO的奇妙冒险的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-14719.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14719-m7Hv2AxcNNjM.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/14719",
+      "duration": "26 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-97668",
+      "title": "一拳超人 第二季",
+      "originalTitle": "One-Punch Man Season 2",
+      "type": "anime",
+      "year": 2019,
+      "rating": 7.4,
+      "genres": [
+        "动作",
+        "喜剧",
+        "科幻",
+        "奇幻"
+      ],
+      "overview": "一拳超人 第二季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-97668.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97668-8Yo3iH2fxbKR.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/97668",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-108465",
+      "title": "无职转生",
+      "originalTitle": "Mushoku Tensei: Jobless Reincarnation",
+      "type": "anime",
+      "year": 2021,
+      "rating": 8.1,
+      "genres": [
+        "冒险",
+        "剧情",
+        "喜剧",
+        "奇幻"
+      ],
+      "overview": "无职转生的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-108465.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108465-RgsRpTMhP9Sv.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/108465",
+      "duration": "11 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-98659",
+      "title": "欢迎来到实力至上主义的教室",
+      "originalTitle": "Classroom of the Elite",
+      "type": "anime",
+      "year": 2017,
+      "rating": 7.6,
+      "genres": [
+        "剧情",
+        "心理"
+      ],
+      "overview": "欢迎来到实力至上主义的教室的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-98659.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98659-u46B5RCNl9il.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/98659",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-101338",
+      "title": "灵能百分百 第二季",
+      "originalTitle": "Mob Psycho 100 II",
+      "type": "anime",
+      "year": 2019,
+      "rating": 8.7,
+      "genres": [
+        "动作",
+        "喜剧",
+        "剧情",
+        "心理",
+        "日常",
+        "奇幻"
+      ],
+      "overview": "灵能百分百 第二季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-101338.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101338-Rl54Qhx71dUq.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/101338",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-120120",
+      "title": "东京复仇者",
+      "originalTitle": "Tokyo Revengers",
+      "type": "anime",
+      "year": 2021,
+      "rating": 7.7,
+      "genres": [
+        "动作",
+        "剧情",
+        "爱情",
+        "奇幻"
+      ],
+      "overview": "东京复仇者的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-120120.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120120-UDYgoHA69peT.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/120120",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-20832",
+      "title": "OVERLORD 不死者之王",
+      "originalTitle": "Overlord",
+      "type": "anime",
+      "year": 2015,
+      "rating": 7.6,
+      "genres": [
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "overview": "OVERLORD 不死者之王的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-20832.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20832-NswCiSYMoI2k.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/20832",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-97986",
+      "title": "来自深渊",
+      "originalTitle": "Made in Abyss",
+      "type": "anime",
+      "year": 2017,
+      "rating": 8.4,
+      "genres": [
+        "冒险",
+        "剧情",
+        "奇幻",
+        "恐怖",
+        "悬疑",
+        "科幻"
+      ],
+      "overview": "来自深渊的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-97986.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97986-C55UnbJKB7ZF.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/97986",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-20923",
+      "title": "食戟之灵",
+      "originalTitle": "Food Wars!",
+      "type": "anime",
+      "year": 2015,
+      "rating": 7.8,
+      "genres": [
+        "喜剧"
+      ],
+      "overview": "食戟之灵的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-20923.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20923-9tFdZ5hIrRiF.png",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/20923",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-15809",
+      "title": "打工吧！魔王大人",
+      "originalTitle": "The Devil is a Part-Timer!",
+      "type": "anime",
+      "year": 2013,
+      "rating": 7.5,
+      "genres": [
+        "喜剧",
+        "奇幻",
+        "爱情",
+        "日常"
+      ],
+      "overview": "打工吧！魔王大人的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-15809.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15809-kX2mopBGBw6g.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/15809",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-171018",
+      "title": "胆大党",
+      "originalTitle": "DAN DA DAN",
+      "type": "anime",
+      "year": 2024,
+      "rating": 8.3,
+      "genres": [
+        "动作",
+        "喜剧",
+        "剧情",
+        "爱情",
+        "科幻",
+        "奇幻"
+      ],
+      "overview": "胆大党的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-171018.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171018-SpwPNAduszXl.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/171018",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-108632",
+      "title": "Re：从零开始的异世界生活 第二季",
+      "originalTitle": "Re:ZERO -Starting Life in Another World- Season 2",
+      "type": "anime",
+      "year": 2020,
+      "rating": 8.3,
+      "genres": [
+        "动作",
+        "冒险",
+        "剧情",
+        "奇幻",
+        "心理",
+        "Thriller"
+      ],
+      "overview": "Re：从零开始的异世界生活 第二季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-108632.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108632-yeLbrgPN4Oni.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/108632",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-6702",
+      "title": "妖精的尾巴",
+      "originalTitle": "Fairy Tail",
+      "type": "anime",
+      "year": 2009,
+      "rating": 7.2,
+      "genres": [
+        "动作",
+        "冒险",
+        "喜剧",
+        "奇幻"
+      ],
+      "overview": "妖精的尾巴的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-6702.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6702-VSHyctSAeUBS.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/6702",
+      "duration": "175 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-21699",
+      "title": "为美好的世界献上祝福！ 第二季",
+      "originalTitle": "KONOSUBA -God's blessing on this wonderful world! 2",
+      "type": "anime",
+      "year": 2017,
+      "rating": 8.0,
+      "genres": [
+        "冒险",
+        "喜剧",
+        "奇幻"
+      ],
+      "overview": "为美好的世界献上祝福！ 第二季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-21699.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21699-1PwL1P4i61wP.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/21699",
+      "duration": "10 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-101347",
+      "title": "多罗罗",
+      "originalTitle": "Dororo",
+      "type": "anime",
+      "year": 2019,
+      "rating": 8.1,
+      "genres": [
+        "动作",
+        "冒险",
+        "剧情",
+        "奇幻"
+      ],
+      "overview": "多罗罗的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-101347.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n101347-tHurKfTlhtFl.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/101347",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-21170",
+      "title": "暗杀教室 第二季",
+      "originalTitle": "Assassination Classroom Second Season",
+      "type": "anime",
+      "year": 2016,
+      "rating": 8.3,
+      "genres": [
+        "动作",
+        "喜剧",
+        "剧情",
+        "奇幻"
+      ],
+      "overview": "暗杀教室 第二季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-21170.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21170-3sLTirZD2J4K.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/21170",
+      "duration": "25 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-2904",
+      "title": "叛逆的鲁路修 R2",
+      "originalTitle": "Code Geass: Lelouch of the Rebellion R2",
+      "type": "anime",
+      "year": 2008,
+      "rating": 8.7,
+      "genres": [
+        "动作",
+        "剧情",
+        "机甲",
+        "科幻",
+        "Thriller"
+      ],
+      "overview": "叛逆的鲁路修 R2的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-2904.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2904-X71fcvE83n3s.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/2904",
+      "duration": "25 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-21698",
+      "title": "排球少年 第三季",
+      "originalTitle": "HAIKYU!! 3rd Season",
+      "type": "anime",
+      "year": 2016,
+      "rating": 8.7,
+      "genres": [
+        "喜剧",
+        "剧情",
+        "运动"
+      ],
+      "overview": "排球少年 第三季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-21698.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21698-jVFRIHAENS5B.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/21698",
+      "duration": "10 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-12189",
+      "title": "冰菓",
+      "originalTitle": "Hyouka",
+      "type": "anime",
+      "year": 2012,
+      "rating": 7.8,
+      "genres": [
+        "悬疑",
+        "爱情",
+        "日常"
+      ],
+      "overview": "冰菓的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-12189.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12189-TG0peUcKFqur.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/12189",
+      "duration": "22 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-20474",
+      "title": "JOJO的奇妙冒险 星尘斗士",
+      "originalTitle": "JoJo's Bizarre Adventure: Stardust Crusaders",
+      "type": "anime",
+      "year": 2014,
+      "rating": 7.9,
+      "genres": [
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "overview": "JOJO的奇妙冒险 星尘斗士的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-20474.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20474-peBLuUVAzNC3.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/20474",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-113936",
+      "title": "石纪元 石之战争",
+      "originalTitle": "Dr. STONE: STONE WARS",
+      "type": "anime",
+      "year": 2021,
+      "rating": 8.1,
+      "genres": [
+        "动作",
+        "冒险",
+        "喜剧",
+        "科幻"
+      ],
+      "overview": "石纪元 石之战争的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-113936.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113936-PpMtCY9kCwwV.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/113936",
+      "duration": "11 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-150672",
+      "title": "我推的孩子",
+      "originalTitle": "OSHI NO KO",
+      "type": "anime",
+      "year": 2023,
+      "rating": 8.4,
+      "genres": [
+        "剧情",
+        "悬疑",
+        "心理",
+        "奇幻"
+      ],
+      "overview": "我推的孩子的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-150672.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150672-ISwoA0eS722H.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/150672",
+      "duration": "11 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-137822",
+      "title": "蓝色监狱",
+      "originalTitle": "BLUE LOCK",
+      "type": "anime",
+      "year": 2022,
+      "rating": 7.9,
+      "genres": [
+        "动作",
+        "剧情",
+        "运动"
+      ],
+      "overview": "蓝色监狱的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-137822.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137822-oevspckMGLuY.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/137822",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-127720",
+      "title": "无职转生 第二部分",
+      "originalTitle": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+      "type": "anime",
+      "year": 2021,
+      "rating": 8.5,
+      "genres": [
+        "冒险",
+        "剧情",
+        "喜剧",
+        "奇幻"
+      ],
+      "overview": "无职转生 第二部分的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-127720.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127720-oBpHiMWQhFVN.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/127720",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-108511",
+      "title": "转生史莱姆 第二季",
+      "originalTitle": "That Time I Got Reincarnated as a Slime Season 2",
+      "type": "anime",
+      "year": 2021,
+      "rating": 8.2,
+      "genres": [
+        "动作",
+        "冒险",
+        "喜剧",
+        "奇幻"
+      ],
+      "overview": "转生史莱姆 第二季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-108511.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108511-lcP2j3XlKERG.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/108511",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-114535",
+      "title": "致不灭的你",
+      "originalTitle": "To Your Eternity",
+      "type": "anime",
+      "year": 2021,
+      "rating": 8.1,
+      "genres": [
+        "冒险",
+        "剧情",
+        "奇幻",
+        "心理"
+      ],
+      "overview": "致不灭的你的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-114535.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114535-ASUprf4AsNwC.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/114535",
+      "duration": "20 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-21450",
+      "title": "JOJO的奇妙冒险 不灭钻石",
+      "originalTitle": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+      "type": "anime",
+      "year": 2016,
+      "rating": 8.4,
+      "genres": [
+        "动作",
+        "冒险",
+        "剧情",
+        "悬疑",
+        "奇幻"
+      ],
+      "overview": "JOJO的奇妙冒险 不灭钻石的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-21450.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21450-5mgIkvOWnF9Z.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/21450",
+      "duration": "39 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-113813",
+      "title": "租借女友",
+      "originalTitle": "Rent-a-Girlfriend",
+      "type": "anime",
+      "year": 2020,
+      "rating": 6.5,
+      "genres": [
+        "喜剧",
+        "剧情",
+        "爱情"
+      ],
+      "overview": "租借女友的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-113813.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113813-Al8VofQuNQHV.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/113813",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-101165",
+      "title": "哥布林杀手",
+      "originalTitle": "GOBLIN SLAYER",
+      "type": "anime",
+      "year": 2018,
+      "rating": 7.1,
+      "genres": [
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "overview": "哥布林杀手的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-101165.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101165-bXPZrNiQGPHd.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/101165",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-102883",
+      "title": "JOJO的奇妙冒险 黄金之风",
+      "originalTitle": "JoJo's Bizarre Adventure: Golden Wind",
+      "type": "anime",
+      "year": 2018,
+      "rating": 8.5,
+      "genres": [
+        "动作",
+        "冒险",
+        "剧情",
+        "悬疑",
+        "奇幻"
+      ],
+      "overview": "JOJO的奇妙冒险 黄金之风的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-102883.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102883-8ffuBLnY5vNR.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/102883",
+      "duration": "39 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-116006",
+      "title": "高校之神",
+      "originalTitle": "The God of High School",
+      "type": "anime",
+      "year": 2020,
+      "rating": 6.9,
+      "genres": [
+        "动作",
+        "奇幻"
+      ],
+      "overview": "高校之神的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-116006.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116006-e7ZL1RJnabp1.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/116006",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-106625",
+      "title": "排球少年 TO THE TOP",
+      "originalTitle": "HAIKYU!! TO THE TOP",
+      "type": "anime",
+      "year": 2020,
+      "rating": 8.3,
+      "genres": [
+        "喜剧",
+        "剧情",
+        "运动"
+      ],
+      "overview": "排球少年 TO THE TOP的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-106625.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106625-wab2Mx4NQqPQ.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/106625",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-20799",
+      "title": "JOJO的奇妙冒险 星尘斗士 埃及篇",
+      "originalTitle": "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt",
+      "type": "anime",
+      "year": 2015,
+      "rating": 8.3,
+      "genres": [
+        "动作",
+        "冒险",
+        "剧情",
+        "奇幻"
+      ],
+      "overview": "JOJO的奇妙冒险 星尘斗士 埃及篇的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-20799.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20799-Fc9I1XG4TWtJ.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/20799",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-21613",
+      "title": "幼女战记",
+      "originalTitle": "Saga of Tanya the Evil",
+      "type": "anime",
+      "year": 2017,
+      "rating": 7.8,
+      "genres": [
+        "动作",
+        "奇幻"
+      ],
+      "overview": "幼女战记的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-21613.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21613-FGAqKSTvfxuA.png",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/21613",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-116742",
+      "title": "转生史莱姆 第二季 后篇",
+      "originalTitle": "That Time I Got Reincarnated as a Slime Season 2 Part 2",
+      "type": "anime",
+      "year": 2021,
+      "rating": 8.2,
+      "genres": [
+        "动作",
+        "冒险",
+        "喜剧",
+        "奇幻"
+      ],
+      "overview": "转生史莱姆 第二季 后篇的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-116742.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116742-yJjsZw2UppWO.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/116742",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-172463",
+      "title": "咒术回战 第三季 死灭回游 前篇",
+      "originalTitle": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+      "type": "anime",
+      "year": 2026,
+      "rating": 8.6,
+      "genres": [
+        "动作",
+        "剧情",
+        "奇幻"
+      ],
+      "overview": "咒术回战 第三季 死灭回游 前篇的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-172463.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172463-3J2o3qQZadFJ.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/172463",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-146065",
+      "title": "无职转生 第二季",
+      "originalTitle": "Mushoku Tensei: Jobless Reincarnation Season 2",
+      "type": "anime",
+      "year": 2023,
+      "rating": 8.1,
+      "genres": [
+        "冒险",
+        "剧情",
+        "喜剧",
+        "奇幻"
+      ],
+      "overview": "无职转生 第二季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-146065.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146065-33RDijfuxLLk.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/146065",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-120697",
+      "title": "不要欺负我，长瀞同学",
+      "originalTitle": "DON'T TOY WITH ME, MISS NAGATORO",
+      "type": "anime",
+      "year": 2021,
+      "rating": 6.9,
+      "genres": [
+        "喜剧",
+        "爱情",
+        "日常"
+      ],
+      "overview": "不要欺负我，长瀞同学的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-120697.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120697-EuMfBYXLANeS.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/120697",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-98437",
+      "title": "OVERLORD 不死者之王 第二季",
+      "originalTitle": "Overlord II",
+      "type": "anime",
+      "year": 2018,
+      "rating": 7.6,
+      "genres": [
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "overview": "OVERLORD 不死者之王 第二季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-98437.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98437-yZXtJz59UMAo.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/98437",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-140439",
+      "title": "灵能百分百 第三季",
+      "originalTitle": "Mob Psycho 100 III",
+      "type": "anime",
+      "year": 2022,
+      "rating": 8.7,
+      "genres": [
+        "动作",
+        "喜剧",
+        "剧情",
+        "心理",
+        "日常",
+        "奇幻"
+      ],
+      "overview": "灵能百分百 第三季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-140439.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140439-r9SRh0q0UgX1.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/140439",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-145545",
+      "title": "实力至上主义的教室 第二季",
+      "originalTitle": "Classroom of the Elite Season 2",
+      "type": "anime",
+      "year": 2022,
+      "rating": 7.8,
+      "genres": [
+        "剧情",
+        "悬疑",
+        "心理"
+      ],
+      "overview": "实力至上主义的教室 第二季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-145545.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145545-XeHhS7dJJLlj.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/145545",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-21518",
+      "title": "食戟之灵 第二季",
+      "originalTitle": "Food Wars! The Second Plate",
+      "type": "anime",
+      "year": 2016,
+      "rating": 7.8,
+      "genres": [
+        "喜剧"
+      ],
+      "overview": "食戟之灵 第二季的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-21518.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21518-kKwYXPaFO9JL.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/21518",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "anime-853",
+      "title": "樱兰高校男公关部",
+      "originalTitle": "Ouran High School Host Club",
+      "type": "anime",
+      "year": 2006,
+      "rating": 8.0,
+      "genres": [
+        "喜剧",
+        "剧情",
+        "爱情",
+        "日常"
+      ],
+      "overview": "樱兰高校男公关部的官方整集播放列表。可在播放器内选择集数和字幕；开放集数与地区、会员要求以所选频道为准。",
+      "poster": "/images/anime-853.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/853-03VYT300hMaf.jpg",
+      "source": "AniList / 官方发行频道",
+      "sourceUrl": "https://anilist.co/anime/853",
+      "duration": "26 集（作品总集数）",
+      "status": "官方整集列表"
+    },
+    {
+      "id": "archive-ThePhantomoftheOpera",
+      "title": "歌剧魅影",
+      "originalTitle": "The Phantom of the Opera",
+      "type": "movie",
+      "year": 1925,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-ThePhantomoftheOpera.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/ThePhantomoftheOpera",
+      "watchUrl": "https://archive.org/details/ThePhantomoftheOpera",
+      "watchLabel": "原始片源",
+      "duration": "106 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-20000LeaguesUndertheSea",
+      "title": "海底两万里",
+      "originalTitle": "20,000 Leagues Under the Sea",
+      "type": "movie",
+      "year": 1916,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-20000LeaguesUndertheSea.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/20000LeaguesUndertheSea",
+      "watchUrl": "https://archive.org/details/20000LeaguesUndertheSea",
+      "watchLabel": "原始片源",
+      "duration": "99 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-lost_world",
+      "title": "失落的世界",
+      "originalTitle": "The Lost World",
+      "type": "movie",
+      "year": 1925,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-lost_world.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/lost_world",
+      "watchUrl": "https://archive.org/details/lost_world",
+      "watchLabel": "原始片源",
+      "duration": "68 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-DasKabinettdesDoktorCaligariTheCabinetofDrCaligari",
+      "title": "卡里加里博士的小屋",
+      "originalTitle": "Das Kabinett des Doktor Caligari ( The Cabinet of Dr. Caligari )",
+      "type": "movie",
+      "year": 1919,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-DasKabinettdesDoktorCaligariTheCabinetofDrCaligari.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari",
+      "watchUrl": "https://archive.org/details/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari",
+      "watchLabel": "原始片源",
+      "duration": "51 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1916_10_02_ThePawnshop",
+      "title": "当铺",
+      "originalTitle": "Charlie Chaplin's \" The Pawnshop\"",
+      "type": "movie",
+      "year": 1916,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1916_10_02_ThePawnshop.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1916_10_02_ThePawnshop",
+      "watchUrl": "https://archive.org/details/CC_1916_10_02_ThePawnshop",
+      "watchLabel": "原始片源",
+      "duration": "20 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-BattleshipPotemkin",
+      "title": "战舰波将金号",
+      "originalTitle": "Bronenosets Potyomkin (Battleship Potemkin)",
+      "type": "movie",
+      "year": 1925,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-BattleshipPotemkin.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/BattleshipPotemkin",
+      "watchUrl": "https://archive.org/details/BattleshipPotemkin",
+      "watchLabel": "原始片源",
+      "duration": "73 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1916_09_04_TheCount",
+      "title": "伯爵",
+      "originalTitle": "Charlie Chaplin's \"The Count\"",
+      "type": "movie",
+      "year": 1916,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1916_09_04_TheCount.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1916_09_04_TheCount",
+      "watchUrl": "https://archive.org/details/CC_1916_09_04_TheCount",
+      "watchLabel": "原始片源",
+      "duration": "20 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-iron_mask",
+      "title": "铁面人",
+      "originalTitle": "The Iron Mask",
+      "type": "movie",
+      "year": 1929,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-iron_mask.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/iron_mask",
+      "watchUrl": "https://archive.org/details/iron_mask",
+      "watchLabel": "原始片源",
+      "duration": "72 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1915_12_18_ABurlesqueOnCarmen",
+      "title": "卓别林's \"A Burlesque On Carmen\"",
+      "originalTitle": "Charlie Chaplin's \"A Burlesque On Carmen\"",
+      "type": "movie",
+      "year": 1915,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1915_12_18_ABurlesqueOnCarmen.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1915_12_18_ABurlesqueOnCarmen",
+      "watchUrl": "https://archive.org/details/CC_1915_12_18_ABurlesqueOnCarmen",
+      "watchLabel": "原始片源",
+      "duration": "44 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1916_05_15_TheFloorwalker",
+      "title": "百货店巡视员",
+      "originalTitle": "Charlie Chaplin's \"The Floorwalker\"",
+      "type": "movie",
+      "year": 1916,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1916_05_15_TheFloorwalker.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1916_05_15_TheFloorwalker",
+      "watchUrl": "https://archive.org/details/CC_1916_05_15_TheFloorwalker",
+      "watchLabel": "原始片源",
+      "duration": "19 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1916_12_04_TheRink",
+      "title": "溜冰场",
+      "originalTitle": "Charlie Chaplin's \"The Rink\"",
+      "type": "movie",
+      "year": 1916,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1916_12_04_TheRink.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1916_12_04_TheRink",
+      "watchUrl": "https://archive.org/details/CC_1916_12_04_TheRink",
+      "watchLabel": "原始片源",
+      "duration": "19 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-Haxan_tinted_and_subtitled",
+      "title": "Haxan",
+      "originalTitle": "Haxan",
+      "type": "movie",
+      "year": 1922,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-Haxan_tinted_and_subtitled.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/Haxan_tinted_and_subtitled",
+      "watchUrl": "https://archive.org/details/Haxan_tinted_and_subtitled",
+      "watchLabel": "原始片源",
+      "duration": "105 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1915_10_04_CharlieShanghaied",
+      "title": "卓别林's \"Charlie Shanghaied\"",
+      "originalTitle": "Charlie Chaplin's \"Charlie Shanghaied\"",
+      "type": "movie",
+      "year": 1915,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1915_10_04_CharlieShanghaied.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1915_10_04_CharlieShanghaied",
+      "watchUrl": "https://archive.org/details/CC_1915_10_04_CharlieShanghaied",
+      "watchLabel": "原始片源",
+      "duration": "23 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1914_08_31_TheGoodforNothing",
+      "title": "卓别林's \"The Good For Nothing\"",
+      "originalTitle": "Charlie Chaplin's \"The Good For Nothing\"",
+      "type": "movie",
+      "year": 1914,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1914_08_31_TheGoodforNothing.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1914_08_31_TheGoodforNothing",
+      "watchUrl": "https://archive.org/details/CC_1914_08_31_TheGoodforNothing",
+      "watchLabel": "原始片源",
+      "duration": "14 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-Intolerance",
+      "title": "党同伐异",
+      "originalTitle": "Intolerance",
+      "type": "movie",
+      "year": 1916,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-Intolerance.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/Intolerance",
+      "watchUrl": "https://archive.org/details/Intolerance",
+      "watchLabel": "原始片源",
+      "duration": "176 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1914_08_13_CharliesRecreation",
+      "title": "卓别林's \"Charlie's Recreation\"",
+      "originalTitle": "Charlie Chaplin's \"Charlie's Recreation\"",
+      "type": "movie",
+      "year": 1914,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1914_08_13_CharliesRecreation.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1914_08_13_CharliesRecreation",
+      "watchUrl": "https://archive.org/details/CC_1914_08_13_CharliesRecreation",
+      "watchLabel": "原始片源",
+      "duration": "12 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1914_11_14_TilliesPuncturedRomance",
+      "title": "卓别林's \"Tillies Punctured Romance\"",
+      "originalTitle": "Charlie Chaplin's \"Tillies Punctured Romance\"",
+      "type": "movie",
+      "year": 1914,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1914_11_14_TilliesPuncturedRomance.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1914_11_14_TilliesPuncturedRomance",
+      "watchUrl": "https://archive.org/details/CC_1914_11_14_TilliesPuncturedRomance",
+      "watchLabel": "原始片源",
+      "duration": "72 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1914_02_07_KidsAutoRaceAtVenice",
+      "title": "卓别林's \"Kids Auto Race At Venice\"",
+      "originalTitle": "Charlie Chaplin's \"Kids Auto Race At Venice\"",
+      "type": "movie",
+      "year": 1914,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1914_02_07_KidsAutoRaceAtVenice.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1914_02_07_KidsAutoRaceAtVenice",
+      "watchUrl": "https://archive.org/details/CC_1914_02_07_KidsAutoRaceAtVenice",
+      "watchLabel": "原始片源",
+      "duration": "6 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1916_08_07_One_A_M",
+      "title": "凌晨一点",
+      "originalTitle": "Charlie Chaplin's \"One A.M.\"",
+      "type": "movie",
+      "year": 1916,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1916_08_07_One_A_M.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1916_08_07_One_A_M",
+      "watchUrl": "https://archive.org/details/CC_1916_08_07_One_A_M",
+      "watchLabel": "原始片源",
+      "duration": "17 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1914_02_02_MakingALiving",
+      "title": "卓别林's \"Making A Living\"",
+      "originalTitle": "Charlie Chaplin's \"Making A Living\"",
+      "type": "movie",
+      "year": 1914,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1914_02_02_MakingALiving.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1914_02_02_MakingALiving",
+      "watchUrl": "https://archive.org/details/CC_1914_02_02_MakingALiving",
+      "watchLabel": "原始片源",
+      "duration": "9 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-ChelovekskinoapparatomManWithAMovieCamera",
+      "title": "持摄影机的人",
+      "originalTitle": "Chelovek s kinoapparatom (Man With A Movie Camera)",
+      "type": "movie",
+      "year": 1929,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-ChelovekskinoapparatomManWithAMovieCamera.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/ChelovekskinoapparatomManWithAMovieCamera",
+      "watchUrl": "https://archive.org/details/ChelovekskinoapparatomManWithAMovieCamera",
+      "watchLabel": "原始片源",
+      "duration": "67 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-Nosferatu_DVD_quality",
+      "title": "诺斯费拉图",
+      "originalTitle": "Nosferatu_DVD_quality",
+      "type": "movie",
+      "year": 1922,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-Nosferatu_DVD_quality.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/Nosferatu_DVD_quality",
+      "watchUrl": "https://archive.org/details/Nosferatu_DVD_quality",
+      "watchLabel": "原始片源",
+      "duration": "5 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1917_06_17_TheImmigrant",
+      "title": "移民",
+      "originalTitle": "Charlie Chaplin's \"The Immigrant\"",
+      "type": "movie",
+      "year": 1917,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1917_06_17_TheImmigrant.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1917_06_17_TheImmigrant",
+      "watchUrl": "https://archive.org/details/CC_1917_06_17_TheImmigrant",
+      "watchLabel": "原始片源",
+      "duration": "20 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-TheGeneral",
+      "title": "将军号",
+      "originalTitle": "The General",
+      "type": "movie",
+      "year": 1927,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-TheGeneral.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/TheGeneral",
+      "watchUrl": "https://archive.org/details/TheGeneral",
+      "watchLabel": "原始片源",
+      "duration": "67 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-TheGoat",
+      "title": "替罪羊",
+      "originalTitle": "The Goat",
+      "type": "movie",
+      "year": 1921,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-TheGoat.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/TheGoat",
+      "watchUrl": "https://archive.org/details/TheGoat",
+      "watchLabel": "原始片源",
+      "duration": "23 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1914_12_05_AFairExchange",
+      "title": "卓别林's \"A Fair Exchange\"",
+      "originalTitle": "Charlie Chaplin's \"A Fair Exchange\"",
+      "type": "movie",
+      "year": 1914,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1914_12_05_AFairExchange.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1914_12_05_AFairExchange",
+      "watchUrl": "https://archive.org/details/CC_1914_12_05_AFairExchange",
+      "watchLabel": "原始片源",
+      "duration": "13 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-CC_1914_02_09_MabelsStrangePredicament",
+      "title": "卓别林's \"Mabels Strange Predicament\"",
+      "originalTitle": "Charlie Chaplin's \"Mabels Strange Predicament\"",
+      "type": "movie",
+      "year": 1914,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-CC_1914_02_09_MabelsStrangePredicament.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/CC_1914_02_09_MabelsStrangePredicament",
+      "watchUrl": "https://archive.org/details/CC_1914_02_09_MabelsStrangePredicament",
+      "watchLabel": "原始片源",
+      "duration": "10 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "archive-last_of_the_mohicans_1920",
+      "title": "最后的莫希干人",
+      "originalTitle": "Last of the Mohicans",
+      "type": "movie",
+      "year": 1920,
+      "rating": null,
+      "genres": [
+        "经典",
+        "默片"
+      ],
+      "overview": "来自 Internet Archive 的完整经典影片。保留原始画幅与字幕版本，可在播放器中继续上次的观看进度。",
+      "poster": "/images/archive-last_of_the_mohicans_1920.jpg",
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/last_of_the_mohicans_1920",
+      "watchUrl": "https://archive.org/details/last_of_the_mohicans_1920",
+      "watchLabel": "原始片源",
+      "duration": "71 分钟",
+      "status": "完整影片"
+    },
+    {
+      "id": "anime-11061",
+      "title": "全职猎人",
+      "originalTitle": "Hunter x Hunter (2011)",
+      "type": "anime",
+      "year": 2011,
+      "rating": 8.9,
+      "genres": [
+        "动漫",
+        "冒险"
+      ],
+      "overview": "通过官方动漫频道的整集播放列表观看。可使用播放器中的播放列表切换已开放的集数；授权范围、语言与会员要求以官方片源为准。",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11061-y5gsT1hoHuHw.png",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11061-8WkkTZ6duKpq.jpg",
+      "source": "AniList · 官方频道",
+      "sourceUrl": "https://anilist.co/anime/11061",
+      "watchUrl": "https://youtube.com/playlist?list=PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8",
+      "watchLabel": "官方整集列表",
+      "duration": "148 集（作品总集数）",
+      "status": "官方整集 · 地区限制"
+    },
+    {
+      "id": "anime-101280",
+      "title": "关于我转生变成史莱姆这档事",
+      "originalTitle": "That Time I Got Reincarnated as a Slime",
+      "type": "anime",
+      "year": 2018,
+      "rating": 8.0,
+      "genres": [
+        "动漫",
+        "冒险"
+      ],
+      "overview": "通过官方动漫频道的整集播放列表观看。可使用播放器中的播放列表切换已开放的集数；授权范围、语言与会员要求以官方片源为准。",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101280-tDxCVJm714nt.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101280-9t7J3774n955.jpg",
+      "source": "AniList · 官方频道",
+      "sourceUrl": "https://anilist.co/anime/101280",
+      "watchUrl": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI",
+      "watchLabel": "官方整集列表",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集 · 地区限制"
+    },
+    {
+      "id": "anime-113415",
+      "title": "咒术回战",
+      "originalTitle": "JUJUTSU KAISEN",
+      "type": "anime",
+      "year": 2020,
+      "rating": 8.4,
+      "genres": [
+        "动漫",
+        "冒险"
+      ],
+      "overview": "通过官方动漫频道的整集播放列表观看。可使用播放器中的播放列表切换已开放的集数；授权范围、语言与会员要求以官方片源为准。",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-LHBAeoZDIsnF.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113415-jQBSkxWAAk83.jpg",
+      "source": "AniList · 官方频道",
+      "sourceUrl": "https://anilist.co/anime/113415",
+      "watchUrl": "https://youtube.com/playlist?list=PLxSscENEp7JisDU6GAJuyNpVwDvCm-f3J",
+      "watchLabel": "官方整集列表",
+      "duration": "24 集（作品总集数）",
+      "status": "官方整集 · 地区限制"
+    },
+    {
+      "id": "anime-127230",
+      "title": "电锯人",
+      "originalTitle": "Chainsaw Man",
+      "type": "anime",
+      "year": 2022,
+      "rating": 8.3,
+      "genres": [
+        "动漫",
+        "冒险"
+      ],
+      "overview": "通过官方动漫频道的整集播放列表观看。可使用播放器中的播放列表切换已开放的集数；授权范围、语言与会员要求以官方片源为准。",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127230-DdP4vAdssLoz.png",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127230-o8IRwCGVr9KW.jpg",
+      "source": "AniList · 官方频道",
+      "sourceUrl": "https://anilist.co/anime/127230",
+      "watchUrl": "https://www.youtube.com/playlist?list=PLxSscENEp7JhfvHiWN-djJjCOjW8rxA6p",
+      "watchLabel": "官方整集列表",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集 · 地区限制"
+    },
+    {
+      "id": "anime-140960",
+      "title": "间谍过家家",
+      "originalTitle": "SPY x FAMILY",
+      "type": "anime",
+      "year": 2022,
+      "rating": 8.3,
+      "genres": [
+        "动漫",
+        "冒险"
+      ],
+      "overview": "通过官方动漫频道的整集播放列表观看。可使用播放器中的播放列表切换已开放的集数；授权范围、语言与会员要求以官方片源为准。",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-Kb6R5nYQfjmP.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140960-Z7xSvkRxHKfj.jpg",
+      "source": "AniList · 官方频道",
+      "sourceUrl": "https://anilist.co/anime/140960",
+      "watchUrl": "https://youtube.com/playlist?list=PLwLSw1_eDZl1wGMYg5oB3uEns0CZNl6sI",
+      "watchLabel": "官方整集列表",
+      "duration": "12 集（作品总集数）",
+      "status": "官方整集 · 地区限制"
+    },
+    {
+      "id": "anime-142838",
+      "title": "间谍过家家 第二部分",
+      "originalTitle": "SPY x FAMILY Cour 2",
+      "type": "anime",
+      "year": 2022,
+      "rating": 8.1,
+      "genres": [
+        "动漫",
+        "冒险"
+      ],
+      "overview": "通过官方动漫频道的整集播放列表观看。可使用播放器中的播放列表切换已开放的集数；授权范围、语言与会员要求以官方片源为准。",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142838-26JrqcFU1ljB.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142838-tynuN00wxmKO.jpg",
+      "source": "AniList · 官方频道",
+      "sourceUrl": "https://anilist.co/anime/142838",
+      "watchUrl": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1wGMYg5oB3uEns0CZNl6sI",
+      "watchLabel": "官方整集列表",
+      "duration": "13 集（作品总集数）",
+      "status": "官方整集 · 地区限制"
+    },
+    {
+      "id": "anime-154587",
+      "title": "葬送的芙莉莲",
+      "originalTitle": "Frieren: Beyond Journey’s End",
+      "type": "anime",
+      "year": 2023,
+      "rating": 9.0,
+      "genres": [
+        "动漫",
+        "冒险"
+      ],
+      "overview": "通过官方动漫频道的整集播放列表观看。可使用播放器中的播放列表切换已开放的集数；授权范围、语言与会员要求以官方片源为准。",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg",
+      "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154587-ivXNJ23SM1xB.jpg",
+      "source": "AniList · 官方频道",
+      "sourceUrl": "https://anilist.co/anime/154587",
+      "watchUrl": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl10YPPR7qDsVf10wZfYnIMK",
+      "watchLabel": "官方整集列表",
+      "duration": "28 集（作品总集数）",
+      "status": "官方整集 · 地区限制"
+    }
+  ],
+  "sources": {
+    "archive-ThePhantomoftheOpera": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-20000LeaguesUndertheSea": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-lost_world": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/lost_world/lost_world.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-DasKabinettdesDoktorCaligariTheCabinetofDrCaligari": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari/The_Cabinet_of_Dr._Caligari_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1916_10_02_ThePawnshop": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1916_10_02_ThePawnshop/CC_1916_10_02_ThePawnshop_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-BattleshipPotemkin": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/BattleshipPotemkin/Battleship_Potemkin_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1916_09_04_TheCount": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1916_09_04_TheCount/CC_1916_09_04_TheCount_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-iron_mask": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/iron_mask/iron_mask.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1915_12_18_ABurlesqueOnCarmen": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1915_12_18_ABurlesqueOnCarmen/CC_1915_12_18_ABurlesqueOnCarmen_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1916_05_15_TheFloorwalker": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1916_05_15_TheFloorwalker/CC_1916_05_15_TheFloorwalker_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1916_12_04_TheRink": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1916_12_04_TheRink/CC_1916_12_04_TheRink_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-Haxan_tinted_and_subtitled": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/Haxan_tinted_and_subtitled/Haxan_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1915_10_04_CharlieShanghaied": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1915_10_04_CharlieShanghaied/CC_1915_10_04_CharlieShanghaied_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1914_08_31_TheGoodforNothing": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1914_08_31_TheGoodforNothing/CC_1914_08_31_TheGoodforNothing_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-Intolerance": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/Intolerance/Intolerance_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1914_08_13_CharliesRecreation": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1914_08_13_CharliesRecreation/CC_1914_08_13_CharliesRecreation_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1914_11_14_TilliesPuncturedRomance": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1914_11_14_TilliesPuncturedRomance/CC_1914_11_14_TilliesPuncturedRomance_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1914_02_07_KidsAutoRaceAtVenice": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1914_02_07_KidsAutoRaceAtVenice/CC_1914_02_07_KidsAutoRaceAtVenice_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1916_08_07_One_A_M": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1916_08_07_One_A_M/CC_1916_08_07_One_A_M_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1914_02_02_MakingALiving": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1914_02_02_MakingALiving/CC_1914_02_02_MakingALiving_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-ChelovekskinoapparatomManWithAMovieCamera": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/ChelovekskinoapparatomManWithAMovieCamera/Chelovek_s_kino-apparatom_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-Nosferatu_DVD_quality": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/Nosferatu_DVD_quality/nosferatu-5of5_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1917_06_17_TheImmigrant": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1917_06_17_TheImmigrant/CC_1917_06_17_TheImmigrant_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-TheGeneral": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/TheGeneral/The_General_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-TheGoat": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/TheGoat/The_Goat_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1914_12_05_AFairExchange": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1914_12_05_AFairExchange/CC_1914_12_05_AFairExchange_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-CC_1914_02_09_MabelsStrangePredicament": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/CC_1914_02_09_MabelsStrangePredicament/CC_1914_02_09_MabelsStrangePredicament_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "archive-last_of_the_mohicans_1920": [
+      {
+        "id": "archive",
+        "label": "档案馆完整片源",
+        "kind": "mp4",
+        "url": "https://archive.org/download/last_of_the_mohicans_1920/last_of_the_mohicans_silent_512kb.mp4",
+        "language": "原版 / 字幕以片源为准",
+        "note": "经典影片原始版本，画质与字幕由档案片源提供。",
+        "license": "http://creativecommons.org/licenses/publicdomain/"
+      }
+    ],
+    "anime-11061": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 整集列表",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8",
+        "language": "字幕/配音以官方频道为准",
+        "note": "官方整集播放列表，开放集数以片源为准。可能受地区或会员限制；当前网络需能访问 YouTube。",
+        "access": "regional"
+      }
+    ],
+    "anime-101280": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 整集列表",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI",
+        "language": "字幕/配音以官方频道为准",
+        "note": "官方整集播放列表，开放集数以片源为准。可能受地区或会员限制；当前网络需能访问 YouTube。",
+        "access": "regional"
+      }
+    ],
+    "anime-113415": [
+      {
+        "id": "official-0",
+        "label": "官方动漫频道 · 整集列表",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLxSscENEp7JisDU6GAJuyNpVwDvCm-f3J",
+        "language": "字幕/配音以官方频道为准",
+        "note": "官方整集列表，可能需要 Ani-One ULTRA 频道会员，并受地区限制。开放集数以来源平台为准。",
+        "access": "membership"
+      }
+    ],
+    "anime-127230": [
+      {
+        "id": "official-0",
+        "label": "官方动漫频道 · 整集列表",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhfvHiWN-djJjCOjW8rxA6p",
+        "language": "字幕/配音以官方频道为准",
+        "note": "官方整集列表，可能需要 Ani-One ULTRA 频道会员，并受地区限制。开放集数以来源平台为准。",
+        "access": "membership"
+      }
+    ],
+    "anime-140960": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 整集列表",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLwLSw1_eDZl1wGMYg5oB3uEns0CZNl6sI",
+        "language": "字幕/配音以官方频道为准",
+        "note": "官方整集播放列表，开放集数以片源为准。可能受地区或会员限制；当前网络需能访问 YouTube。",
+        "access": "regional"
+      },
+      {
+        "id": "official-1",
+        "label": "官方动漫频道 · 整集列表",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL145WmZpHC4VMbgjCAShnb1M",
+        "language": "字幕/配音以官方频道为准",
+        "note": "官方整集播放列表，开放集数以片源为准。可能受地区或会员限制；当前网络需能访问 YouTube。",
+        "access": "regional"
+      }
+    ],
+    "anime-142838": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 整集列表",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1wGMYg5oB3uEns0CZNl6sI",
+        "language": "字幕/配音以官方频道为准",
+        "note": "官方整集播放列表，开放集数以片源为准。可能受地区或会员限制；当前网络需能访问 YouTube。",
+        "access": "regional"
+      },
+      {
+        "id": "official-1",
+        "label": "官方动漫频道 · 整集列表",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL17Akf9iHRx28-f8N_e_Cnmz",
+        "language": "字幕/配音以官方频道为准",
+        "note": "官方整集播放列表，开放集数以片源为准。可能受地区或会员限制；当前网络需能访问 YouTube。",
+        "access": "regional"
+      }
+    ],
+    "anime-154587": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 整集列表",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl10YPPR7qDsVf10wZfYnIMK",
+        "language": "字幕/配音以官方频道为准",
+        "note": "官方整集播放列表，开放集数以片源为准。可能受地区或会员限制；当前网络需能访问 YouTube。",
+        "access": "regional"
+      }
+    ],
+    "anime-1535": [
+      {
+        "id": "official-0",
+        "label": "vizmedia · 北美",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLDDFkfLheQ9hzlWtnCSla1DicLZkllriY",
+        "access": "external",
+        "language": "以官方播放器可选字幕为准",
+        "note": "本次测试中，官方播放器要求在 YouTube 完成年龄验证后观看，无法在站内播放。请打开原始片源，遵循来源平台的要求。"
+      }
+    ],
+    "anime-21087": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2XdtLhB9NG2Ch050jWFm9G",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      },
+      {
+        "id": "official-1",
+        "label": "Muse India · 印度",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL16FvVk0QOffUwXX_vaHVjZP",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse India 官方整集播放列表，面向印度授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      },
+      {
+        "id": "official-2",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0YZIflIt1EK0dcjLuMuxLd",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-20": [
+      {
+        "id": "official-0",
+        "label": "vizmedia · 北美",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLDDFkfLheQ9hNru7WoTa26dpn6o9-AEJK",
+        "access": "external",
+        "language": "以官方播放器可选字幕为准",
+        "note": "本次测试中，官方播放器要求在 YouTube 完成年龄验证后观看，无法在站内播放。请打开原始片源，遵循来源平台的要求。"
+      }
+    ],
+    "anime-20755": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1QGs4v-QtvNHpC_N8ZjkEs",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-21507": [
+      {
+        "id": "official-0",
+        "label": "Muse India · 印度",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse India 官方整集播放列表，面向印度授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      },
+      {
+        "id": "official-1",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1pvIv1fBd3oKkP3XEQpT_G",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-21355": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-20464": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲 · 会员",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jj89wMj2yzRnsY-db5DswlG",
+        "access": "membership",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。此列表标注 ULTRA，需对应频道会员。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-105333": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLxSscENEp7JiMf-7_IKknXJngJrCesKj2",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-20613": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLxSscENEp7JixhUo7CWyYHQeWj0GuS9BX",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-19815": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JglGq-5PMtbewK96Z_7Au8J",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-20789": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq&si=mP5IwBPobYKC27_K",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-269": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲 · 会员",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhUQ-NvGTp34p7vqZarUZ7Y",
+        "access": "membership",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。此列表标注 ULTRA，需对应频道会员。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      },
+      {
+        "id": "official-1",
+        "label": "Ani-One Asia · 亚洲 · 会员",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLxSscENEp7Jh8xTD3hhwG-NyaZHEXe7rd",
+        "access": "membership",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。此列表标注 ULTRA，需对应频道会员。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-21202": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiyHGbqVQuTTs9ZFqu3wYNM",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-145064": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲 · 会员",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjIe81K3Qd0l7PVaIiPi64r",
+        "access": "membership",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。此列表标注 ULTRA，需对应频道会员。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-105310": [
+      {
+        "id": "official-0",
+        "label": "shonenmagazine official · 日本",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLIGSjnmKivFcknx6K0AId_w6C9umJwy95",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "shonenmagazine official 官方整集播放列表，面向日本授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-14719": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0CVpnjetepbYfC4ZuePqo6",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-97668": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2XdtLhB9NG2Ch050jWFm9G",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      },
+      {
+        "id": "official-1",
+        "label": "Muse India · 印度",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL17VrHbE8h73S-qbNYjXkjH1",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse India 官方整集播放列表，面向印度授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-108465": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl01_ftoIT3birJWkpxFZkEl",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-98659": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl37ONxLQx-mIAJu3hdX-brM",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      },
+      {
+        "id": "official-1",
+        "label": "Muse India · 印度",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL169S905pZlnUmZkbd4IIPFu",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse India 官方整集播放列表，面向印度授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-101338": [
+      {
+        "id": "official-0",
+        "label": "Muse India · 印度",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse India 官方整集播放列表，面向印度授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      },
+      {
+        "id": "official-1",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-120120": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      },
+      {
+        "id": "official-1",
+        "label": "Muse India · 印度",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL14ZN_ayyUTitn2qFsVKMI_9",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse India 官方整集播放列表，面向印度授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-20832": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲 · 会员",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiIura5SogPzrVGaujqXYsc",
+        "access": "membership",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。此列表标注 ULTRA，需对应频道会员。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-97986": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0-bp4bZ7ER-VQ-973riDyN",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-20923": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLxSscENEp7JiQ5eGN9KP8g6v8fEG7k6Ab",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-15809": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3f9u2Wb_weEMZFcCD1BXhC",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-171018": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-108632": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-6702": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLwLSw1_eDZl2VQRIahDF73hnkdPjNRYnu",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-21699": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjBrlCcD2AFans0YqvZCF0f",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-101347": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLxSscENEp7JhK-cSte9aHaz3rs6qc2Eup&si=lgTTA5pL7lelUyrR",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-21170": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1QGs4v-QtvNHpC_N8ZjkEs",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-2904": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhJi1De2SBVmkdPbKKUHZcg",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-21698": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲 · 会员",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhJSL_Vr_RAi9iQyPk-gHAO",
+        "access": "membership",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。此列表标注 ULTRA，需对应频道会员。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-12189": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl28iypqyY3tsSz7P1BByLiK",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-20474": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-113936": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLxSscENEp7Jjd9DclPvIJd8fmLnYFiA-c",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-150672": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲 · 会员",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jhas5i3D5PMB2HNS6Z6HJF2",
+        "access": "membership",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。此列表标注 ULTRA，需对应频道会员。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-137822": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲 · 会员",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jj17JiCvrOBjnjPjb930O2g",
+        "access": "membership",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。此列表标注 ULTRA，需对应频道会员。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-127720": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl01_ftoIT3birJWkpxFZkEl",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-108511": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-114535": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgxV0mDkMNtd0TczCCvLb-N",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-21450": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-113813": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3rS5lwfx07zxghGRJ6Ckp8",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-101165": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0yarBY8H1zXi3Oz834aRhm",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-102883": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0Hlilj-CAwmciWsIVvFJ0L",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-116006": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0a8Ktxyo5ZH3L_CjHYLmY9",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-106625": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲 · 会员",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhcDltax70U8SLMixaRLsCE",
+        "access": "membership",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。此列表标注 ULTRA，需对应频道会员。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-20799": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-21613": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JipogV7W74-hbDbYaQx78Oq",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-116742": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://youtube.com/playlist?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-172463": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲 · 会员",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhRHMXloduRBZmrGlDW5gmC",
+        "access": "membership",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。此列表标注 ULTRA，需对应频道会员。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-146065": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3kNUmd8rDL2WnmI-C6LKgt",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      },
+      {
+        "id": "official-1",
+        "label": "Muse India · 印度",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL15vNsXU2LkMwkHxGIxtPd19",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse India 官方整集播放列表，面向印度授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-120697": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhfAGqyUhmkjOlfb6caTuF2",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-98437": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲 · 会员",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjWZYyjY91LNUlpFOsDMYJZ",
+        "access": "membership",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。此列表标注 ULTRA，需对应频道会员。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-140439": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2VGzbi1867Ucw0vJzRfXYU",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      },
+      {
+        "id": "official-1",
+        "label": "Muse India · 印度",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL17JXqY8NNyHtjRip3d7mfE1",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse India 官方整集播放列表，面向印度授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-145545": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      },
+      {
+        "id": "official-1",
+        "label": "Muse India · 印度",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL15ThV6Sk_ynU7DmU5cmaT-e",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse India 官方整集播放列表，面向印度授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-21518": [
+      {
+        "id": "official-0",
+        "label": "Ani-One Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjC6Atr2SaYeVJyC1kkzQOa",
+        "access": "regional",
+        "language": "以官方播放器可选字幕为准",
+        "note": "Ani-One Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "anime-853": [
+      {
+        "id": "official-0",
+        "label": "Muse Asia · 亚洲",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1z8JtxYPgiV9H6tGZMlhTC",
+        "access": "regional",
+        "language": "英文字幕",
+        "note": "Muse Asia 官方整集播放列表，面向亚洲授权地区。实际开放集数以官方播放器为准；需要当前网络能够访问 YouTube。"
+      }
+    ],
+    "world-prospect": [
+      {
+        "id": "world-prospect-youtube",
+        "label": "Shout! Studios · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=UsrbNtUgEaY",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ],
+    "world-halo": [
+      {
+        "id": "world-halo-youtube",
+        "label": "Shout! Studios · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=AZj3Is6Upng",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      },
+      {
+        "id": "halo-popcornflix",
+        "label": "Popcornflix · 备用完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=eXPFCTYqCag",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "完整影片由来源频道播放。需当前网络可访问 YouTube；可用地区、字幕与广告由来源平台决定。"
+      }
+    ],
+    "world-illusionist": [
+      {
+        "id": "world-illusionist-youtube",
+        "label": "Cinéma Cinémas · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=eWflUY3pNXo",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ],
+    "world-marvelous": [
+      {
+        "id": "world-marvelous-youtube",
+        "label": "FilmRise Movies · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=3Eh7dVNKWNU",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ],
+    "world-dead-girl": [
+      {
+        "id": "world-dead-girl-youtube",
+        "label": "Shout! Studios · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=WiZMDIiAcYg",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ],
+    "world-morvern": [
+      {
+        "id": "world-morvern-youtube",
+        "label": "FilmRise Movies · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=fSWQRS3nty4",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ],
+    "world-rendel": [
+      {
+        "id": "world-rendel-youtube",
+        "label": "Popcornflix · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=ra0vF8YSvps",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ],
+    "world-cas-dylan": [
+      {
+        "id": "world-cas-dylan-youtube",
+        "label": "Boxoffice · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=amU-OR2ueko",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ],
+    "world-birders": [
+      {
+        "id": "world-birders-youtube",
+        "label": "Popcornflix · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=bopJV_Xk_Ls",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ],
+    "world-meet-patels": [
+      {
+        "id": "world-meet-patels-youtube",
+        "label": "FilmRise Movies · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=QofdbUNmczo",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ],
+    "world-emu-war": [
+      {
+        "id": "world-emu-war-youtube",
+        "label": "Umbrella Entertainment · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=1KyiTWUS9ts",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ],
+    "world-jurassic-triangle": [
+      {
+        "id": "world-jurassic-triangle-youtube",
+        "label": "Movie Central · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=ozwywy1eeXs",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ],
+    "world-most-guys": [
+      {
+        "id": "world-most-guys-youtube",
+        "label": "Shout! Studios · 完整版",
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=TqtDnxV4zeM",
+        "language": "原片音轨；字幕选项以播放器为准",
+        "note": "2026-11-18 在测试网络与手机尺寸浏览器中已成功开始播放完整时长影片。需要网络可访问 YouTube；地区、广告及字幕由来源平台决定。",
+        "verified": true
+      }
+    ]
+  },
+  "updatedAt": "2026-11-18",
+  "collectionNote": "仅收录海外电影与日本动漫；电影来自公开发行频道，地区与字幕由来源平台决定。"
+}
