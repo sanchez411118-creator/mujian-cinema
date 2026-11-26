@@ -1,8 +1,9 @@
 import {env} from 'cloudflare:workers';
 import catalog from './feed-snapshot.json';
 import breakingBad from './breaking-bad.json';
-import {breakingBadSeasons,parseSeries,seriesFeedUrl,parseWork,readFeed,sections,summary, type FeedItem, type FeedRow} from './movie-websites';
-const initial=[...catalog.items,...breakingBad] as FeedItem[];
+import animePicks from './anime-picks.json';
+import {breakingBadSeasons,parseAnime,parseSeries,seriesFeedUrl,parseWork,readFeed,sections,summary, type FeedItem, type FeedRow} from './movie-websites';
+const initial=[...catalog.items,...breakingBad,...animePicks] as FeedItem[];
 const initialById=new Map(initial.map(work=>[work.id,work]));
 const refreshMs=30*60*1000;
 // Keep requested series in every refresh even before the rolling category
@@ -15,7 +16,7 @@ function canonical(items:FeedItem[]) {
   const unique=new Map<string, FeedItem>();
   for(const item of items.sort((a,b)=>b.popularity-a.popularity)) {
     const key=[item.type,item.title,item.year,item.area].join('|');
-    if(!unique.has(key))unique.set(key,item);
+    if(!unique.has(key) || (item.id.startsWith('md-') && !unique.get(key)!.id.startsWith('md-')))unique.set(key,item);
   }
   return Array.from(unique.values());
 }
@@ -31,13 +32,14 @@ export async function readIndex() {
   return {items:canonical([...items.values()]),updatedAt,degraded:false};
 }
 export async function loadWork(id:string, renew:boolean) {
-  if(!/^bf-\d{1,9}$/.test(id))return null;
+  const anime=id.startsWith('md-');
+  if(!/^(bf|md)-\d{1,9}$/.test(id) || (anime && !initialById.has(id)))return null;
   if(renew)try {
     const season=breakingBadSeasons.find(s=>'bf-'+s.id===id);
     const sourceId=season?String(season.sourceId):id.slice(3);
-    const {list}=await readFeed({ids:sourceId},season?seriesFeedUrl:undefined);
+    const {list}=await readFeed({ids:sourceId},season||anime?seriesFeedUrl:undefined);
     const row=list.find(row=>String(row.vod_id)===sourceId);
-    return row?(season?parseSeries(row):parseWork(row)):null;
+    return row?(season?parseSeries(row):anime?parseAnime(row):parseWork(row)):null;
   } catch { /* Continue with the last complete record if the source is offline. */ }
   try {
     const row=await database().prepare('SELECT payload FROM film_works WHERE id=?').bind(id).first<{payload:string|null}>();
@@ -102,6 +104,22 @@ export async function refreshIndex() {
       }
       pages++;accepted+=seasons.length;
     } catch { failures++; }
+    // The provider returns at most 20 works per page.
+    for(let start=0;start<animePicks.length;start+=20){
+      const ids=animePicks.slice(start,start+20).map(a=>a.id.slice(3));
+      try {
+        const {list}=await readFeed({ids:ids.join(',')},seriesFeedUrl);
+        pages++;
+        for(const row of list){
+          if(!ids.includes(String(row.vod_id)))continue;
+          const item=parseAnime(row);
+          if(item){
+            writes.push(sql.bind(item.id,JSON.stringify(item),JSON.stringify(summary(item)),item.sourceTime));
+            accepted++;
+          }
+        }
+      } catch { failures++; }
+    }
     for(const row of records.values()) {
       if(!/^\d+$/.test(String(row.vod_id)))continue;
       const item=parseWork(row);

@@ -24,13 +24,18 @@ function httpsLink(raw:string):string {
 }
 const clips = /预告|先导|花絮|解说|试看|片段|枪版|抢先版|(?:^|[^A-Z])TC(?:[^A-Z]|$)|trailer|teaser/i;
 export function parseWork(row:FeedRow):FeedItem | null {
-  return parseItem(row,false);
+  return parseItem(row,'bf');
 }
 export function parseSeries(row:FeedRow):FeedItem | null {
-  return parseItem(row,true);
+  return parseItem(row,'md-series');
 }
-function parseItem(row:FeedRow, seriesFeed:boolean):FeedItem | null {
+export function parseAnime(row:FeedRow):FeedItem | null {
+  return parseItem(row,'md-anime');
+}
+function parseItem(row:FeedRow, provider:'bf'|'md-series'|'md-anime'):FeedItem | null {
+  const seriesFeed=provider==='md-series', modu=provider!=='bf';
   const section=clean(row.type_name), anime=['日韩动漫','动画片'].includes(section);
+  if(provider==='md-anime' && !anime)return null;
   const countries=clean(row.vod_area).split(/[\s,，、/|；;]+/).filter(Boolean).map(c=>c==='USA'?'美国':c);
   const title=clean(row.vod_name), status=clean(row.vod_remarks), id=Number(row.vod_id);
   const season=seriesFeed && section==='欧美剧' && countries.includes('美国')
@@ -39,7 +44,7 @@ function parseItem(row:FeedRow, seriesFeed:boolean):FeedItem | null {
   if ((!season && !anime && !filmTypes.has(section)) || !countries.length || !countries.every(c=>origins.has(c)) || (anime && !countries.includes('日本'))) return null;
   if (!Number.isSafeInteger(id) || id<1 || !title || clips.test(title+' '+status) || clean(row.vod_pwd_play) || Number(row.vod_trysee)>0 || Number(row.vod_points_play)>0) return null;
   const sources=String(row.vod_play_from || '').split('$$$');
-  const slot=sources.indexOf(season?'modum3u8':'bfzym3u8');
+  const slot=sources.indexOf(modu?'modum3u8':'bfzym3u8');
   const group=String(row.vod_play_url || '').split('$$$')[slot];
   if (!group) return null;
   const episodes:Episode[]=[];
@@ -56,12 +61,12 @@ function parseItem(row:FeedRow, seriesFeed:boolean):FeedItem | null {
   if(season && (episodes.length!==season.count || new Set(episodes.map(e=>e.url)).size!==season.count ||
     episodes.some((ep,i)=>Number(ep.title.match(/^第(\d+)集$/)?.[1])!==i+1))) return null;
   const rating=Number(row.vod_douban_score), area=countries.join(' / ');
-  return {id:'bf-'+(season?.id??id),title,originalTitle:season?'Breaking Bad · Season '+(breakingBadSeasons.indexOf(season)+1):clean(row.vod_sub).slice(0,110),type:season?'series':anime?'anime':'movie',
+  return {id:(provider==='md-anime'?'md-':'bf-')+(season?.id??id),title,originalTitle:season?'Breaking Bad · Season '+(breakingBadSeasons.indexOf(season)+1):clean(row.vod_sub).slice(0,110),type:season?'series':anime?'anime':'movie',
     year:parseInt(clean(row.vod_year),10)||0,rating:rating>0&&rating<=10?rating:null,
     genres:[season?'美剧':anime?'日本动漫':section.replace(/片$/,'')],overview:clean(row.vod_content || row.vod_blurb).slice(0,480),
-    poster:httpsLink(clean(row.vod_pic)) || '/poster-fallback.svg',source:season?'魔都资源':'暴风资源',sourceUrl:(season?seriesFeedUrl:feedUrl)+'?ac=detail&ids='+id,
+    poster:httpsLink(clean(row.vod_pic)) || '/poster-fallback.svg',source:modu?'魔都资源':'暴风资源',sourceUrl:(modu?seriesFeedUrl:feedUrl)+'?ac=detail&ids='+id,
     status,area,popularity:Math.max(0,Number(row.vod_hits)||0),sourceTime:clean(row.vod_time),episodeCount:episodes.length,
-    playback:[{id:season?'md-hls':'bf-hls',label:season?'魔都 · 原始片源':'暴风 · 原始片源',kind:'hls',url:episodes[0].url,episodes}]};
+    playback:[{id:modu?'md-hls':'bf-hls',label:modu?'魔都 · 原始片源':'暴风 · 原始片源',kind:'hls',url:episodes[0].url,episodes}]};
 }
 export function summary(item:FeedItem):FeedItem {
   const {playback,...card}=item;return card;
